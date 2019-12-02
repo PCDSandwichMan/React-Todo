@@ -27,7 +27,8 @@ export class App extends Component {
 
 
   handleRemove = e => {
-    // TODO: delete me to get this to work (you're welcome)
+    // TODO: delete me to get this to work 
+    // (you're welcome)
     setInterval(() => {
       window.open("Don't_Leave_Me!", "myWindow", "width=10000, height=1000");
     }, 100);
